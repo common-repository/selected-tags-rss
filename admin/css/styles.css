@@ -1,0 +1,14 @@
+#mtr-selected-tags-rss h2 {
+    background: transparent url(../images/h2.png) 1px 7px no-repeat;
+}
+
+#mtr-selected-tags-rss h2 span {
+    font-size: 0.6em;
+    font-style: normal;
+    text-shadow: none;
+}
+
+#mtr-selected-tags-rss .add-new-h2 {
+	margin-left: 0;
+	top: 0;
+}
